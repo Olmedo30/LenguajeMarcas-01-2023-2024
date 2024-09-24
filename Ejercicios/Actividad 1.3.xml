@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Actividad 1.3-->
+
+<agenda>
+	<!--Vamos a crear un contacto-->
+	<contactos>
+		<nombre>Alumno</nombre>
+		<ciudad cp="15500">Ciudad Real</ciudad>
+		<teléfono n="612345678"/>
+		<email>alumno@gmail.com</email>
+		<casado v="no"/>
+		<AsignaturaPreferida>Matemáticas</AsignaturaPreferida>
+    </contactos>
+</agenda>
+
