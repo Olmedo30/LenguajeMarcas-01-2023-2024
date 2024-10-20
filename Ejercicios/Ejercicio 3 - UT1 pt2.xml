@@ -1,0 +1,35 @@
+<?xml version="1.0" endcoding= "UTF-8"?>
+<restaurante>
+    <desayunos>
+        <plato1>
+            <nombre>Gofres Belgas</nombre>
+            <precio>5,95€</precio>
+            <descripción>Dos de nuestros famosos Gofres belgas con abundante sirope</descripción>
+            <calorías>650cal</calorías>
+        </plato1>
+        <plato2>
+            <nombre>Gofres Belgas con fresas</nombre>
+            <precio>7,95€</precio>
+            <descripción>Ligeros gofres belgas cubiertos de fresas y nata montada</descripción>
+            <calorías>900cal</calorías>
+        </plato2>
+        <plato3>
+            <nombre>Gofres Belgas con frutas del bosque</nombre>
+            <precio>8,95€</precio>
+            <descripción>Ligeros gofres belgas cubiertos con frutas del bosque y nata montadaº</descripción>
+            <calorías>900cal</calorías>
+        </plato3>
+        <plato4>
+            <nombre>Tostada Francesa</nombre>
+            <precio>4,50€</precio>
+            <descripción>Dos gruesas rebanadas de nuestro pan francés casero</descripción>
+            <calorías>600cal</calorías>
+        </plato4>
+        <plato5>
+            <nombre>Desayuno de la casa</nombre>
+            <precio>6,95€</precio>
+            <descripción>Dos huevos, bacon o salchicha, tostada y patatas fritas</descripción>
+            <calorías>950cal</calorías>
+        </plato5>
+    </desayunos>
+</restaurante>

@@ -1,0 +1,12 @@
+<?xml version="1.0" endcoding= "UTF-8"?>
+<pedido>
+    <Destinatario>Benito Pérez Galdós</Destinatario>
+    <Artículo>monitor HP M24fwa</Artículo>
+    <Dirección>
+        <calle>Barco 4</calle>
+        <número_piso>tercero</número_piso>
+        <letra>A</letra>
+    </Dirección> 
+    <Fecha> 19-09-2023</Fecha> 
+
+</pedido>
